@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "playwright": "^1.49.1",
+    "chrome-paths": "1.0.1",
+    "log4js": "6.9.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.7"
+  },
+  "scripts": {}
+}
