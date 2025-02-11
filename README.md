@@ -28,4 +28,5 @@ Code from github need to be download OR cloned using git command.[https://github
 Installing the dependencies. npm install
 
 **Run Test**
+
 npx playwright test AmericanExpress.spec.ts
